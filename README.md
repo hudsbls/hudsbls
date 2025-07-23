@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @hudsbls
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning django
+- 👋 Hi, I’m @hudsbls, Brazilian, moving from economics to development. 
 
 
 <!---
