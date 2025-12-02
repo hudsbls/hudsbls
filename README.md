@@ -13,7 +13,9 @@ Minha experiência é construída em três pilares, visando o desenvolvimento de
 3.  **Análise de Processos (BPM):** Aplico o rigor analítico da minha formação para mapear, otimizar e garantir a viabilidade técnica e comercial dos projetos (mentalidade **FinOps**).
 
 ## 💡 Paixão e Cultura Técnica
+
 Sou um entusiasta de **Linux (Arch)** e **Automação**. Minha paixão é simplificar processos complexos e investir em ferramentas que aumentam a produtividade.
+
 ---
 
 ### 🔗 Conecte-se comigo:
