@@ -1,24 +1,25 @@
-👋🏽 Hello, I am an Economist and a Developer 
+# 👋🏽 Hello, I am Huds: an Economist and a Developer.
 
-Minha jornada profissional é a união da análise de viabilidade com o código. Formado em **Economia pela UFMG**, migrei para a área de Tecnologia com o objetivo de construir soluções que sejam não apenas funcionais, mas também eficientes e lucrativas.
-
----
-
-## 🎯 Meu Foco: Construção e Otimização
-
-Minha experiência é construída em três pilares, visando o desenvolvimento de ponta a ponta:
-
-1.  **Desenvolvimento Fullstack (Web):** Domínio dos fundamentos (HTML, CSS, JS puros) e UI/UX, focado em criar experiências de usuário limpas e acessíveis.
-2.  **Infraestrutura Cloud & Automação:** Proficiência em **Linux CLI** e **Shell Scripting** para automação de ambientes. Minha base em Cloud é certificada pelo **Google Cloud Foundations**.
-3.  **Análise de Processos (BPM):** Aplico o rigor analítico da minha formação para mapear, otimizar e garantir a viabilidade técnica e comercial dos projetos (mentalidade **FinOps**).
-
-## 💡 Paixão e Cultura Técnica
-
-Sou um entusiasta de **Linux (Arch)** e **Automação**. Minha paixão é simplificar processos complexos e investir em ferramentas que aumentam a produtividade.
+My professional journey is the union of viability analysis with code. With a degree in **Economics from UFMG**, I migrated to the Technology field with the goal of building solutions that are not only functional but also efficient and profitable.
 
 ---
 
-### 🔗 Conecte-se comigo:
+## 🎯 My Focus: Construction and Optimization
 
-* **LinkedIn:** [[Meu Linkedin]](https://www.linkedin.com/in/hudslene-barreira-2b026352/?locale=en_US)
-* **Portfólio (Code & Design):** [[Meu Portfólio]](https://hudsbls.github.io/portfolio-hudslene/#home)
+My experience is built on three pillars, aiming for end-to-end development:
+
+1.  **Fullstack Development (Web):** Mastery of the fundamentals (pure HTML, CSS, JS) and UI/UX, focused on creating clean and accessible user experiences.
+2.  **Cloud Infrastructure & Automation:** Proficiency in **Linux CLI** and **Shell Scripting** for environment automation. My Cloud foundation is certified by **Google Cloud Foundations**.
+3.  **Process Analysis (BPM):** I apply the analytical rigor of my education to map, optimize, and ensure the technical and commercial viability of projects (**FinOps** mindset).
+
+## 💡 Passion and Technical Culture
+
+I am a **Linux (Arch)** and **Automation** enthusiast. My passion is simplifying complex processes and investing in tools that increase productivity.
+
+---
+
+### 🔗 Connect with me:
+
+* **LinkedIn:** [[My Linkedin]](https://www.linkedin.com/in/hudslene-barreira-2b026352/?locale=en_US)
+* **Portfolio (Code & Design):** [[My Portfolio]](https://hudsbls.github.io/portfolio-hudslene/#home)
+
