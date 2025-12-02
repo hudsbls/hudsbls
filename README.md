@@ -13,11 +13,10 @@ Minha experiência é construída em três pilares, visando o desenvolvimento de
 3.  **Análise de Processos (BPM):** Aplico o rigor analítico da minha formação para mapear, otimizar e garantir a viabilidade técnica e comercial dos projetos (mentalidade **FinOps**).
 
 ## 💡 Paixão e Cultura Técnica
-Sou um entusiasta de **Linux (Arch)** e **Automação**. Minha paixão é simplificar processos complexos e investir em ferramentas que aumentam a produtividade (veja meus `dotfiles` e scripts de automação).
-
+Sou um entusiasta de **Linux (Arch)** e **Automação**. Minha paixão é simplificar processos complexos e investir em ferramentas que aumentam a produtividade.
 ---
 
 ### 🔗 Conecte-se comigo:
 
-* **LinkedIn:** https://www.linkedin.com/in/hudslene-barreira-2b026352/?locale=en_US
-* **Portfólio (Code & Design):** [[Seu link do Portfólio]](https://hudsbls.github.io/portfolio-hudslene/#home)
+* **LinkedIn:** [[Meu Linkedin]](https://www.linkedin.com/in/hudslene-barreira-2b026352/?locale=en_US)
+* **Portfólio (Code & Design):** [[Meu Portfólio]](https://hudsbls.github.io/portfolio-hudslene/#home)
